@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: sravani2310/mcapp:latest
+          image: shivaramsiddagoni/august:pythonimage
           ports:
             - containerPort: 8080
 
